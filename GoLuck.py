@@ -15,5 +15,3 @@ l = min(a.values())
 for i in a.keys():
     if a[i] == l:
         print("Winner is ",i,"with value",l)
-
-
